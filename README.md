@@ -1,5 +1,7 @@
 # redis-py
 
+redis5 is forked from redis 5.0.0, so you can use redis5 and any version redis in one python env
+
 The Python interface to the Redis key-value store.
 
 [![CI](https://github.com/redis/redis-py/workflows/CI/badge.svg?branch=master)](https://github.com/redis/redis-py/actions?query=workflow%3ACI+branch%3Amaster)

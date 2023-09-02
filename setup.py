@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="redis5",
-    description="Python client for Redis database and key-value store",
+    description="redis5 is forked from redis 5.0.0, so you can use redis5 and any version redis in one python env",
     long_description=open("README.md").read().strip(),
     long_description_content_type="text/markdown",
     keywords=["Redis", "key-value store", "database"],
