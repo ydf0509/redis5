@@ -25,11 +25,11 @@ setup(
     ),
     package_data={"redis5": ["py.typed"]},
     include_package_data=True,
-    url="https://github.com/redis/redis-py",
+    url="https://github.com/ydf0509/redis5",
     project_urls={
         "Documentation": "https://redis.readthedocs.io/en/latest/",
         "Changes": "https://github.com/redis/redis-py/releases",
-        "Code": "https://github.com/redis/redis-py",
+        "Code": "https://github.com/ydf0509/redis5",
         "Issue tracker": "https://github.com/redis/redis-py/issues",
     },
     author="Redis Inc.",
